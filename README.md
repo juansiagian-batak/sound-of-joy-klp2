@@ -6,4 +6,5 @@
 5. Benny Wicaksono (1710625106) UI/UX 2
 6. Ibnu Faris Pribadi (1710625118) Software Engenier 1
 7. Umar (1710625202) Software Engenier 2
-br https://juansiagian-batak.github.io/sound-of-joy-klp2/ /br
+  
+   https://juansiagian-batak.github.io/sound-of-joy-klp2/
